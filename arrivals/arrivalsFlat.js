@@ -1,4 +1,4 @@
-[
+export default [
   {
     "name": "Nurse",
     "type": "Triage Nurse",
