@@ -1,4 +1,4 @@
-[
+export default [
   {
     "name": "Main Entrance",
     "annotationName": "Main Entrance",
