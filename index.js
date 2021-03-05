@@ -1,7 +1,7 @@
 import arrivalHospital from "./arrivals/arrivalHospital.js"
 import arrivalsFlat from "./arrivals/arrivalsFlat.js"
 
-import locationsFlat from "./locations/locationsFlat"
+import locationsFlat from "./locations/locationsFlat.js"
 import locationsHospital from "./locations/locationsHospital.js"
 
 import flatWall1 from "./objs/flat-wall-1.js"
